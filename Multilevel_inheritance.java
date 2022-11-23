@@ -19,7 +19,7 @@ class a2 extends a1
 }
 class a3 extends a2
 {
-   int t,m;
+  
 		void read()
 		{
 		p=10;
@@ -39,3 +39,4 @@ public class Main {
 		
 	}
 }
+
